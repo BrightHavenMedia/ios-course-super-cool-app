@@ -9,6 +9,10 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var coolLogo:
+    @IBOutlet weak var coolBg:
+    @IBOutlet weak var unCoolButton:
 
     override func viewDidLoad() {
         super.viewDidLoad()
